@@ -1,3 +1,5 @@
+![trixite logo](https://raw.githubusercontent.com/trixite/trixite/master/doc/images/logo.png)
+
 # What's Trixite
 
 Trixite is three programming language paradigms in one. Able to interpret and
